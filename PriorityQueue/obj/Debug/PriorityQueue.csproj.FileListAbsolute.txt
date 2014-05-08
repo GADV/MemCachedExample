@@ -1,9 +1,0 @@
-F:\Documents\Visual Studio 2013\Projects\MemCached\PriorityQueue\bin\Debug\PriorityQueue.dll
-F:\Documents\Visual Studio 2013\Projects\MemCached\PriorityQueue\bin\Debug\PriorityQueue.pdb
-F:\Documents\Visual Studio 2013\Projects\MemCached\PriorityQueue\obj\Debug\PriorityQueue.dll
-F:\Documents\Visual Studio 2013\Projects\MemCached\PriorityQueue\obj\Debug\PriorityQueue.pdb
-D:\Private\MemCached\PriorityQueue\bin\Debug\PriorityQueue.dll
-D:\Private\MemCached\PriorityQueue\bin\Debug\PriorityQueue.pdb
-D:\Private\MemCached\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
-D:\Private\MemCached\PriorityQueue\obj\Debug\PriorityQueue.dll
-D:\Private\MemCached\PriorityQueue\obj\Debug\PriorityQueue.pdb
