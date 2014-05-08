@@ -1,0 +1,18 @@
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\bin\Debug\MemCachedTest.dll
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\bin\Debug\MemCachedTest.pdb
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\obj\Debug\MemCachedTest.dll
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\obj\Debug\MemCachedTest.pdb
+D:\Private\MemCached\MemCachedTest\bin\Debug\MemCachedTest.dll
+D:\Private\MemCached\MemCachedTest\bin\Debug\MemCachedTest.pdb
+D:\Private\MemCached\MemCachedTest\bin\Debug\MemCached.dll
+D:\Private\MemCached\MemCachedTest\bin\Debug\PriorityQueue.dll
+D:\Private\MemCached\MemCachedTest\bin\Debug\MemCached.pdb
+D:\Private\MemCached\MemCachedTest\bin\Debug\PriorityQueue.pdb
+D:\Private\MemCached\MemCachedTest\obj\Debug\MemCachedTest.csprojResolveAssemblyReference.cache
+D:\Private\MemCached\MemCachedTest\obj\Debug\MemCachedTest.dll
+D:\Private\MemCached\MemCachedTest\obj\Debug\MemCachedTest.pdb
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\bin\Debug\MemCached.dll
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\bin\Debug\PriorityQueue.dll
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\bin\Debug\MemCached.pdb
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\bin\Debug\PriorityQueue.pdb
+F:\Documents\Visual Studio 2013\Projects\MemCached\MemCachedTest\obj\Debug\MemCachedTest.csprojResolveAssemblyReference.cache
