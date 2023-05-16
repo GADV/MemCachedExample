@@ -2,7 +2,6 @@ MemCachedExample
 ================
 
 This is a programming exercise that implement a basic example of memcached in C#. Key and values are just strings.
-The key/value pairs are just strings.
 
 Some possible improvement:
   - Implement different versions of the primary queue and compare their performances
